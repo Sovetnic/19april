@@ -13,7 +13,7 @@
 и их пособниками в годы Великой Отечественной войны</h1>
     <p><b>19 апреля   наша страна отмечает – День единых действий в память о жертвах преступлений против советского народа, совершенных нацистами и их пособниками в годы Великой Отечественной войны</b>
 </p>
-    <img src="https://sc8ruz.gosuslugi.ru/netcat_files/generated/117/179/760x570/1449/8ef1b78ef551488a260b0753c523292c.jpg?crop=0%3A0%3A0%3A0&hash=adfaceee5fa31cfda777aae156c0266c&resize_mode=0&wm_m=0" width="500";  style= "border-radius:5px">
+    <img src="https://sc8ruz.gosuslugi.ru/netcat_files/generated/117/179/760x570/1449/8ef1b78ef551488a260b0753c523292c.jpg?crop=0%3A0%3A0%3A0&hash=adfaceee5fa31cfda777aae156c0266c&resize_mode=0&wm_m=0" width="500"  style= "border-radius:5 px">
     <p><b>  В период с 1941 по 1945 годы нацистская Германия вела агрессивную войну против Советского Союза, стремясь уничтожить его как государство и как нацию. В этой войне советский народ столкнулся с беспрецедентными испытаниями, страданиями и жертвами.</b></p>
     <br>
     <img src="https://sun9-8.userapi.com/impg/az7IuTurnFjQygyuPR_PBTb5NYLvHqki8jaPMg/F1I4-V94ulI.jpg?size=807x807&quality=96&sign=9ab553ce2081d35644f10be6613f374d&type=album" width="400" style= "border-radius:10 px">
@@ -40,7 +40,7 @@
     </body>
     <style>
  
-body { background: url(https://pixy.org/src2/670/6707527.jpg);  align-items: center; justify-content: center;height: 100 vh; }
+body { align-items: center; justify-content: center;height: 100 vh; }
         button{ padding: 20px 50px;
         outline: none;
         border: none;
