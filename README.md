@@ -1,7 +1,7 @@
-<!DOCTYPE html >
+<!doctype html >
 <html>
 <head>
- <title>19 апреля</title>   
+<title>19 апреля</title>   
 
 </head>
 <body>
@@ -31,7 +31,7 @@
     </br>
      
     <button>
-    <type="button"><onclick="location.href" url="https://www.youtube.com/watch?v=gOYsDeND7aU">видео-квест</button>
+    <button onclick="ClickFunction(https://www.youtube.com/watch?v=gOYsDeND7aU)>видео-квест</button>
        
  <style>
  <body>
