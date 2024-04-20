@@ -35,23 +35,19 @@
      
     
     <button><type="button" onclick="location.href='https://www.youtube.com/watch?v=gOYsDeND7aU'"> видео-квест </button>
-      
-  
-    
-    </body>
-    <style>
- 
-<body>
+       
+ <style>
+ <body>
  <background> <url="https://pixy.org/src2/670/6707527.jpg";  align-items="center"; justify-content="center"; height="100 vh"></background>
         <button padding="20px:50px">;
         <outline="none">;
         <border="none">;
-        border-radius: 25px;
-            background-color: #eae6ca;
+        <border-radius="25 px">;
+            <background-color="#eae6ca">;
 
             </body>
             
-        }
+   
         
 </style>
 
