@@ -30,7 +30,7 @@
         </b></p>
     <br>
     <h5 align="center">ПРЕДЛАГАЕМ ВАМ ПРОЙТИ ВИДЕО-КВЕСТ ПО КНОПКЕ НИЖЕ</h5>
-    <img src="https://disk.yandex.ru/i/PKf9kl7kasbzAQ"  height="50" width="650">
+    
      
     
     <button type="button" onclick="location.href='https://www.youtube.com/watch?v=gOYsDeND7aU'">видео-квест</button>
@@ -46,7 +46,7 @@ body { background: url(https://pixy.org/src2/670/6707527.jpg); align-items: cent
         outline: none;
         border: none;
         border-radius: 25px;
-            background-color: #ffffff;
+            background-color: #eae6ca;
             
         }
         
