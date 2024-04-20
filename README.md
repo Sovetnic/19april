@@ -33,7 +33,7 @@
     
      
     
-    <button type="button" onclick="location.href='https://www.youtube.com/watch?v=gOYsDeND7aU'">видео-квест</button>
+    <button type="button" onclick="location.href='https://www.youtube.com/watch?v=gOYsDeND7aU'">Видео-квест</button>
       
   
     
