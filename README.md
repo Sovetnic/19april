@@ -5,10 +5,7 @@
 
 </head>
 <body>
-    
-    <br>
-       </br>
-    <br>
+     <br>
   <h1 align="center">День памяти о геноциде советского народа нацистами
 и их пособниками в годы Великой Отечественной войны</h1>
     <p><b>19 апреля наша страна отмечает День единых действий в память о жертвах преступлений против советского народа, совершенных нацистами и их пособниками в годы Великой Отечественной войны</b>
@@ -32,10 +29,9 @@
     <h5 align="center"> ПРЕДЛАГАЕМ ВАМ ПРОЙТИ ВИДЕО-КВЕСТ ПО КНОПКЕ НИЖЕ</h5>
     <img src="https://disk.yandex.ru/i/PKf9kl7kasbzAQ" height="50" width="650">
     </br>
-    
      
-    
-    <button><type="button" onclick="location.href='https://www.youtube.com/watch?v=gOYsDeND7aU'"> видео-квест </button>
+    <button>
+    <type="button"><onclick="location.href" url="https://www.youtube.com/watch?v=gOYsDeND7aU">видео-квест</button>
        
  <style>
  <body>
@@ -46,10 +42,7 @@
         border-radius="25 px"
             background-color="#eae6ca">;
   </background>
-            </body>
-            
-   
-        
+            </body>     
 </style>
 
 
