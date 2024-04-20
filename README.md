@@ -17,8 +17,8 @@
     <p><b>  В период с 1941 по 1945 годы нацистская Германия вела агрессивную войну против Советского Союза, стремясь уничтожить его как государство и как нацию. В этой войне советский народ столкнулся с беспрецедентными испытаниями, страданиями и жертвами.</b></p>
     <br>
     <img src="https://sun9-8.userapi.com/impg/az7IuTurnFjQygyuPR_PBTb5NYLvHqki8jaPMg/F1I4-V94ulI.jpg?size=807x807&quality=96&sign=9ab553ce2081d35644f10be6613f374d&type=album" width="400" style= "border-radius:10 px">
-    <img src="https://sun9-7.userapi.com/impg/ThXitscueT-QMfXa4VXl4QwILGOs1ax5q626-w/We8KC3luXLQ.jpg?size=807x807&quality=96&sign=68d2de4abeb4992a63b1311ce2c8b7e3&type=album" width="400"; style= "border-radius:10 px">
-    <img src="https://sun9-74.userapi.com/impg/A__oTISdH0iIJpXeEdBfxOhTq6Tg2zvasVR1jg/hrj9RSRhsGY.jpg?size=807x807&quality=96&sign=21347bdeaf2ffb5c5c8deda84da3d56f&type=album" width="400"; style= "border-radius:10 px">
+    <img src="https://sun9-7.userapi.com/impg/ThXitscueT-QMfXa4VXl4QwILGOs1ax5q626-w/We8KC3luXLQ.jpg?size=807x807&quality=96&sign=68d2de4abeb4992a63b1311ce2c8b7e3&type=album" width="400" style= "border-radius:10 px">
+    <img src="https://sun9-74.userapi.com/impg/A__oTISdH0iIJpXeEdBfxOhTq6Tg2zvasVR1jg/hrj9RSRhsGY.jpg?size=807x807&quality=96&sign=21347bdeaf2ffb5c5c8deda84da3d56f&type=album" width="400" style= "border-radius:10 px">
     
     <br>
     <p><b>Основные причины, лежащие в основе этого геноцида, были идеологическими и расовыми. Нацистский режим придавал огромное значение расовой чистоте и считал себя высшей расой, а советский народ, 
@@ -39,12 +39,12 @@
        
  <style>
  <body>
- <background> <url="https://pixy.org/src2/670/6707527.jpg";  align-items="center"; justify-content="center"; height="100 vh">
-        <button padding="20px:50px">;
-        <outline="none">;
-        <border="none">;
-        <border-radius="25 px">;
-            <background-color="#eae6ca">;
+ <background> <url="https://pixy.org/src2/670/6707527.jpg" align-items="center" justify-content="center" height="100 vh"
+        button-padding="20px:50px"
+        outline="none"
+        border="none"
+        border-radius="25 px"
+            background-color="#eae6ca">;
   </background>
             </body>
             
