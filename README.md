@@ -7,7 +7,7 @@
 <body>
     
     <br>
-       <br>
+       </br>
     <br>
   <h1 align="center">День памяти о геноциде советского народа нацистами
 и их пособниками в годы Великой Отечественной войны</h1>
@@ -39,13 +39,13 @@
        
  <style>
  <body>
- <background> <url="https://pixy.org/src2/670/6707527.jpg";  align-items="center"; justify-content="center"; height="100 vh"></background>
+ <background> <url="https://pixy.org/src2/670/6707527.jpg";  align-items="center"; justify-content="center"; height="100 vh">
         <button padding="20px:50px">;
         <outline="none">;
         <border="none">;
         <border-radius="25 px">;
             <background-color="#eae6ca">;
-
+  </background>
             </body>
             
    
