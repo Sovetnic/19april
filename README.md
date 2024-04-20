@@ -31,23 +31,28 @@
         
         </b></p>
     <br>
-    <h5 align="center">ПРЕДЛАГАЕМ ВАМ ПРОЙТИ ВИДЕО-КВЕСТ ПО КНОПКЕ НИЖЕ</h5>
-    <img src="https://disk.yandex.ru/i/PKf9kl7kasbzAQ"  height="50" width="650">
+    <h5 align="center"> ПРЕДЛАГАЕМ ВАМ ПРОЙТИ ВИДЕО-КВЕСТ ПО КНОПКЕ НИЖЕ </h5>
+    <img src="https://disk.yandex.ru/i/PKf9kl7kasbzAQ" height="50" width="650">
+    <br>
+    
      
     
-    <button type="button" onclick="location.href='https://www.youtube.com/watch?v=gOYsDeND7aU'">видео-квест</button>
+    <button type="button" onclick="location.href='https://www.youtube.com/watch?v=gOYsDeND7aU'"> видео-квест </button>
       
   
     
     </body>
     <style>
  
-<body><background: url="https://pixy.org/src2/670/6707527.jpg";  align-items="center"; justify-content="center"; height="100 vh";>
-        button{ padding: 20px 50px;
-        outline: none;
-        border: none;
+<body>
+ <background> <url="https://pixy.org/src2/670/6707527.jpg";  align-items="center"; justify-content="center"; height="100 vh"></background>
+        <button padding="20px:50px">;
+        <outline="none">;
+        <border="none">;
         border-radius: 25px;
             background-color: #eae6ca;
+
+            </body>
             
         }
         
