@@ -40,7 +40,7 @@
     </body>
     <style>
  
-body { background: url(https://pixy.org/src2/670/6707527.jpg); align-items: center; justify-content: center;height: 100 vh; }
+body { background: url(https://pixy.org/src2/670/6707527.jpg); align-items: center; justify-content: center; height: 100 vh; }
         button{ padding: 20px 50px;
         align-items: center;
         outline: none;
